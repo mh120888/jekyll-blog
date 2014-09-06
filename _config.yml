@@ -3,7 +3,7 @@ title: Matthew Higgins
 email: matthew.alan.higgins@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   A collection of my thoughts, (usually) sanitized for public consumption.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/jekyll-blog" # the subpath of your site, e.g. /blog/
 url: "http://www.matthewalanhiggins.com" # the base hostname & protocol for your site
 github_username:  mh120888
 
